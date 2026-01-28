@@ -143,7 +143,7 @@
 
   ## Universe Classification by Region ID
 
-  Credit: [guigui lechat](https://github.com/guiguilechat/JCELechat/blob/master/libs/formula/src/main/java/fr/guiguilechat/jcelechat/model/formula/space/Universe.java)
+  Reference: [EVE Developer Docs](https://developers.eveonline.com/docs/guides/id-ranges/#ship-tree-groups)
 
   ```java
   package fr.guiguilechat.jcelechat.model.formula.space;
